@@ -16,13 +16,18 @@ I turn complex business data into clear dashboards, reliable reporting, and acti
 
 ## About Me
 
-- 📊 I build interactive dashboards, KPI scorecards, and automated reporting solutions.
-- 🔎 I focus on data quality, trend analysis, variance analysis, and performance gaps.
-- ⚙️ I use SQL, Power Query, DAX, Python, and Excel VBA to prepare data and streamline recurring workflows.
-- 🎓 I am pursuing an MSc in Mathematical Modeling, Simulation and Optimization at the University of Koblenz.
-- 📍 Based in Koblenz, Germany.
-- 🌱 Currently strengthening my skills in Snowflake, machine learning, and modern analytics workflows.
-- 💬 Ask me about Power BI, SQL, Excel automation, Tableau, or KPI reporting.
+I'm a data analyst based in Koblenz, Germany, with experience turning operational and business data into reporting that people can actually use. I work across the analytics workflow—from cleaning and validating source data to defining KPIs, building dashboards, and presenting the findings clearly to stakeholders.
+
+My core toolkit includes **Power BI, SQL, Excel, Python, and Tableau**. I use **Power Query and DAX** for data preparation and modeling, and **Excel VBA** to reduce repetitive reporting work. I care as much about the reliability of the numbers as the appearance of the final dashboard.
+
+### What I Bring
+
+- **Business-focused analysis:** I connect metrics to real performance questions instead of creating visuals without context.
+- **Reliable reporting:** I build validation checks and structured workflows so dashboards remain accurate and consistent.
+- **Clear communication:** I translate complex datasets into concise KPI views, trends, and recommendations for business users.
+- **Continuous improvement:** I look for opportunities to automate recurring tasks and make reporting faster and easier to maintain.
+
+I'm currently pursuing an **MSc in Mathematical Modeling, Simulation and Optimization at the University of Koblenz**. This profile documents my BI and analytics projects, including the business problem, data preparation, analytical approach, dashboard design, and key insights—not just the final screenshot.
 
 ## Analytics Toolkit
 
@@ -102,3 +107,4 @@ I am interested in data analytics and business intelligence opportunities where 
 ### Thanks for visiting!
 
 </div>
+
