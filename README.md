@@ -6,10 +6,11 @@
 
 I turn complex business data into clear dashboards, reliable reporting, and actionable insights using **Power BI, SQL, Excel, Python, and Tableau**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjgohil/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaydipsinhgohil12@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=jjgohildev&label=Profile%20Views&color=0A66C2&style=for-the-badge)](https://github.com/jjgohildev)
-[![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjjgohildev&query=%24.public_repos&label=Public%20Repos&color=0A66C2&style=for-the-badge)](https://github.com/jjgohildev?tab=repositories)
+<p>
+  <a href="https://www.linkedin.com/in/jjgohil/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jaydipsinhgohil12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20Hello-1F6FEB?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/jjgohildev?tab=repositories"><img alt="Portfolio" src="https://img.shields.io/badge/GitHub-View%20Portfolio-24292F?style=flat&logo=github&logoColor=white"></a>
+</p>
 
 </div>
 
@@ -54,45 +55,39 @@ I turn complex business data into clear dashboards, reliable reporting, and acti
 
 > Explore the repositories and project documentation in my [analytics portfolio](https://github.com/jjgohildev?tab=repositories). Each project README includes the business question, data preparation, KPI definitions, dashboard screenshots, and key findings.
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
+<p>
+  <a href="https://github.com/jjgohildev?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjjgohildev&query=%24.public_repos&label=Public%20Repositories&color=0969DA&logo=github&style=flat-square"></a>
+  <a href="https://github.com/jjgohildev"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jjgohildev?label=Followers&color=0969DA&logo=github&style=flat-square"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=jjgohildev&label=Profile%20Views&color=0969DA&style=flat-square">
+</p>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=jjgohildev&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jjgohildev&show_icons=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true">
-  <img height="180" alt="Jaydipsinh's GitHub statistics, including commits and stars" src="https://github-stats-extended.vercel.app/api?username=jjgohildev&show_icons=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=jjgohildev&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true&card_width=470">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jjgohildev&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true&title_color=0969DA&icon_color=0969DA&card_width=470">
+  <img width="49%" alt="Jaydipsinh's GitHub overview, including commits and stars" src="https://github-stats-extended.vercel.app/api?username=jjgohildev&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true&title_color=0969DA&icon_color=0969DA&card_width=470">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=jjgohildev&layout=compact&theme=github_dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=jjgohildev&layout=compact&theme=default&hide_border=true">
-  <img height="180" alt="Most-used languages in Jaydipsinh's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jjgohildev&layout=compact&theme=default&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jjgohildev&theme=github-dark-blue&hide_border=true&card_width=470">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jjgohildev&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292F&dates=57606A&card_width=470">
+  <img width="49%" alt="Jaydipsinh's GitHub contribution streak" src="https://streak-stats.demolab.com?user=jjgohildev&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292F&dates=57606A&card_width=470">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jjgohildev&theme=github-dark-blue&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jjgohildev&theme=default&hide_border=true">
-  <img alt="Jaydipsinh's GitHub contribution streak" src="https://streak-stats.demolab.com?user=jjgohildev&theme=default&hide_border=true">
-</picture>
+<h3>Contribution Overview</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjgohildev&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjgohildev&theme=github">
-  <img alt="Jaydipsinh's GitHub contribution activity and commit graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjgohildev&theme=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjgohildev&theme=github_border">
+  <img width="98%" alt="Jaydipsinh's GitHub contribution activity and commit graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjgohildev&theme=github_border">
 </picture>
 
 </div>
 
-<details>
-<summary><strong>What these analytics show</strong></summary>
-
-- The statistics card summarizes public commits, pull requests, issues, contributed repositories, and stars received.
-- The language card reflects repository code, not professional proficiency or time spent using a technology.
-- The streak and activity graph are calculated from public GitHub contribution data.
-- Private activity may not appear unless it is enabled in GitHub's contribution settings.
-
-</details>
+<p align="center"><sub>Public GitHub activity only. Statistics update automatically as new projects and contributions are published.</sub></p>
 
 ## Let's Connect
 
