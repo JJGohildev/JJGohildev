@@ -16,7 +16,7 @@ I turn complex business data into clear dashboards, reliable reporting, and acti
 
 ## About Me
 
-I'm a data analyst based in Koblenz, Germany, with experience turning operational and business data into reporting that people can actually use. I work across the analytics workflow—from cleaning and validating source data to defining KPIs, building dashboards, and presenting the findings clearly to stakeholders.
+I'm a data analyst based in Koblenz, Germany, with experience turning operational and business data into reporting that people can actually use. I work across the analytics workflow from cleaning and validating source data to defining KPIs, building dashboards, and presenting the findings clearly to stakeholders.
 
 My core toolkit includes **Power BI, SQL, Excel, Python, and Tableau**. I use **Power Query and DAX** for data preparation and modeling, and **Excel VBA** to reduce repetitive reporting work. I care as much about the reliability of the numbers as the appearance of the final dashboard.
 
