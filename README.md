@@ -5,6 +5,8 @@ Koblenz, Germany
 
 I work with business and operational data to build KPI reports and dashboards. My projects cover data preparation, SQL validation, and analysis in Power BI and Tableau.
 
+[LinkedIn](https://www.linkedin.com/in/jjgohil/) · [Email](mailto:jaydipsinhgohil12@gmail.com)
+
 ## Selected projects
 
 ### British Airways Reviews
@@ -30,18 +32,31 @@ Built Power BI views of headcount, attrition, engagement, and training, alongsid
 
 *The customer experience and HR projects use simulated data for fictional companies.*
 
-## Skills
+## Analytics Toolkit
 
-**Reporting:** Power BI, Tableau, Excel  
-**Data preparation and analysis:** SQL, Power Query, Python  
-**Modeling and automation:** DAX, data modeling, Excel VBA
+### Business Intelligence & Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
+
+### Data & Programming
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square)
+
+### Modeling & Reporting
+
+`DAX` · `Power Query` · `Data Modeling` · `KPI Definitions`  
+`Data Validation` · `Excel VBA` · `Reporting Automation`
 
 ## Education
 
 I'm pursuing an **MSc in Mathematical Modeling, Simulation and Optimization** at the University of Koblenz, building on a bachelor's degree in Mechanical Engineering.
 
-## Contact
+## Let's Connect
 
 I'm interested in data analyst and business intelligence opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/jjgohil/) · [Email](mailto:jaydipsinhgohil12@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jjgohil/) · [jaydipsinhgohil12@gmail.com](mailto:jaydipsinhgohil12@gmail.com)
