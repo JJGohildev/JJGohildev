@@ -1,4 +1,3 @@
-<div align="center">
 Jaydipsinh Gohil
 
 **Data Analyst | Business Intelligence | Power BI & SQL**
@@ -45,10 +44,3 @@ Tableau analysis of 901 historical reviews, comparing service ratings, passenger
 I'm interested in data analyst and business intelligence opportunities. You can reach me by email or connect with me on LinkedIn.
 
 [LinkedIn](https://www.linkedin.com/in/jjgohil/) · [Email](mailto:jaydipsinhgohil12@gmail.com)
-
-<div align="center">
-
-### Thanks for visiting!
-
-</div>
-
