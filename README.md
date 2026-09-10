@@ -1,5 +1,5 @@
 <div align="center">
-# Jaydipsinh Gohil
+Jaydipsinh Gohil
 
 **Data Analyst | Business Intelligence | Power BI & SQL**
 
