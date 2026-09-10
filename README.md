@@ -5,7 +5,7 @@ Koblenz, Germany
 
 I work with business and operational data to build KPI reports and dashboards. My projects cover data preparation, SQL validation, and analysis in Power BI and Tableau.
 
-[LinkedIn](https://www.linkedin.com/in/jjgohil/) · [Email](mailto:jaydipsinhgohil12@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jjgohil/) · [Email](mailto:jaydipsinhgohil12@gmail.com) · [View my portfolio](https://jjgohildev.github.io/)
 
 ## Selected projects
 
